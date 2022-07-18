@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://seksanmanee.github.io/csb-pq8rj/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://seksanmanee.github.io/csb-pq8rj/static/js/main.4d57d8a3.chunk.js",
+    "main.js.map": "https://seksanmanee.github.io/csb-pq8rj/static/js/main.4d57d8a3.chunk.js.map",
+    "runtime-main.js": "https://seksanmanee.github.io/csb-pq8rj/static/js/runtime-main.4a8b8f0e.js",
+    "runtime-main.js.map": "https://seksanmanee.github.io/csb-pq8rj/static/js/runtime-main.4a8b8f0e.js.map",
+    "static/js/2.c7cebd62.chunk.js": "https://seksanmanee.github.io/csb-pq8rj/static/js/2.c7cebd62.chunk.js",
+    "static/js/2.c7cebd62.chunk.js.map": "https://seksanmanee.github.io/csb-pq8rj/static/js/2.c7cebd62.chunk.js.map",
+    "index.html": "https://seksanmanee.github.io/csb-pq8rj/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://seksanmanee.github.io/csb-pq8rj/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c7cebd62.chunk.js.LICENSE.txt": "https://seksanmanee.github.io/csb-pq8rj/static/js/2.c7cebd62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a8b8f0e.js",
+    "static/js/2.c7cebd62.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.4d57d8a3.chunk.js"
+  ]
+}
